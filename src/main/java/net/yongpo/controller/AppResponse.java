@@ -9,7 +9,7 @@ import java.util.Collection;
 import java.util.Map;
 
 /**
- * Created by xiegang on 2016/1/22.
+ * Created by p0po on 2018/11/20 0020.
  */
 public class AppResponse {
     private static final Map NO_ERROR = null;
